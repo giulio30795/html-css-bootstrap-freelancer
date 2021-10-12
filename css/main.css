@@ -7,7 +7,9 @@ nav.site-navbar{
     background-color:#2C3E50;
 }
 .main-header div.container a.navbar-brand,
-.main-header div.container a.nav-link{
+.main-header div.container a.nav-link,
+.jumbo{
+    
     color:white;
 }
 
@@ -18,12 +20,41 @@ nav.site-navbar{
 .jumbo{
     background-color:#1ABC9C;
 }
+.jumbo .fw-bold{
+    font-size: 2.5rem;
+}
 
+.jumbo img{
+    max-width: 40vh;
 
+}
 
+.bar{
+    background-color: white;
+    height:5px;
+    width: 7vw;
+    border-radius: 5px;
+}
 
+.star{
+    color: white;
+    max-width: 8vw;
+    font-size: 1.3rem;
+    text-align: center;
+}
 
+.portfolio .bar{
+    background-color: #2C3E50;
+}
 
+.portfolio .star{
+    color: #2C3E50;
+}
+
+.portfolio img{
+    max-width: 100%;
+    border-radius: 10px;
+}
 
 
 
