@@ -76,3 +76,22 @@ background-color: #1ABC9C;
     box-shadow: none;
     border-bottom: 1px solid black;
 }
+.footer{
+background-color: #3B546E;
+color:white
+}
+
+.footer .fab {
+    border-radius: 50%;
+    border: 1px solid white;
+    height: 30px;
+    width: 30px;
+    line-height: 30px;
+}
+
+.green{
+    color: #21B999;
+}
+.copyright{
+    background-color:#2C3F4F;
+}
