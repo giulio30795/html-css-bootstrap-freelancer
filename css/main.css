@@ -8,7 +8,8 @@ nav.site-navbar{
 }
 .main-header div.container a.navbar-brand,
 .main-header div.container a.nav-link,
-.jumbo{
+.jumbo,
+.about{
     
     color:white;
 }
@@ -17,7 +18,8 @@ nav.site-navbar{
     font-size: 1.5rem;
 }
 
-.jumbo{
+.jumbo,
+.about{
     background-color:#1ABC9C;
 }
 .jumbo .fw-bold{
@@ -26,7 +28,6 @@ nav.site-navbar{
 
 .jumbo img{
     max-width: 40vh;
-
 }
 
 .bar{
@@ -56,30 +57,8 @@ nav.site-navbar{
     border-radius: 10px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.box-text{
-    height:100px;
-    background-color:red;
+a.site-button{
+border-radius: 5px;
+border:1px solid white;
+color: white;
 }
