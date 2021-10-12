@@ -1,7 +1,3 @@
-.box{
-    height: 300px;
-    background-color: blue;
-}
 
 nav.site-navbar{
     background-color:#2C3E50;
@@ -10,12 +6,11 @@ nav.site-navbar{
 .main-header div.container a.nav-link,
 .jumbo,
 .about{
-    
     color:white;
 }
 
 .main-header .navbar-brand{
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 
 .jumbo,
@@ -23,7 +18,7 @@ nav.site-navbar{
     background-color:#1ABC9C;
 }
 .jumbo .fw-bold{
-    font-size: 2.5rem;
+    font-size: 2rem;
 }
 
 .jumbo img{
