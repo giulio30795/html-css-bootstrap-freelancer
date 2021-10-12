@@ -44,11 +44,13 @@ nav.site-navbar{
     text-align: center;
 }
 
-.portfolio .bar{
+.portfolio .bar,
+.contact .bar{
     background-color: #2C3E50;
 }
 
-.portfolio .star{
+.portfolio .star,
+.contact .star{
     color: #2C3E50;
 }
 
@@ -58,7 +60,19 @@ nav.site-navbar{
 }
 
 a.site-button{
-border-radius: 5px;
+border-radius: 8px;
 border:1px solid white;
 color: white;
+background-color: #1ABC9C;
+}
+
+.contact .site-form{
+    border: none;
+    border-bottom: 1px solid lightgray;
+    border-radius: 0;
+}
+
+.contact .site-form:focus{
+    box-shadow: none;
+    border-bottom: 1px solid black;
 }
