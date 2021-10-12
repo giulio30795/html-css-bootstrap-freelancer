@@ -3,9 +3,50 @@
     background-color: blue;
 }
 
-.container-fluid{
-    background-color: lightgreen;
+nav.site-navbar{
+    background-color:#2C3E50;
 }
+.main-header div.container a.navbar-brand,
+.main-header div.container a.nav-link{
+    color:white;
+}
+
+.main-header .navbar-brand{
+    font-size: 1.5rem;
+}
+
+.jumbo{
+    background-color:#1ABC9C;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .box-text{
     height:100px;
