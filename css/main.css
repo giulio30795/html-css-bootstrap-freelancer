@@ -1,7 +1,11 @@
 
+/* Navbar */
+
 nav.site-navbar{
     background-color:#2C3E50;
 }
+
+/* Commons */
 .main-header div.container a.navbar-brand,
 .main-header div.container a.nav-link,
 .jumbo,
@@ -11,18 +15,6 @@ nav.site-navbar{
 
 .main-header .navbar-brand{
     font-size: 1.2rem;
-}
-
-.jumbo,
-.about{
-    background-color:#1ABC9C;
-}
-.jumbo .fw-bold{
-    font-size: 2rem;
-}
-
-.jumbo img{
-    max-width: 40vh;
 }
 
 .bar{
@@ -38,6 +30,22 @@ nav.site-navbar{
     font-size: 1.3rem;
     text-align: center;
 }
+/* Jumbo */
+
+.jumbo,
+.about{
+    background-color:#1ABC9C;
+}
+
+.jumbo .fw-bold{
+    font-size: 2rem;
+}
+
+.jumbo img{
+    max-width: 40vh;
+}
+
+/* Portfolio */
 
 .portfolio .bar,
 .contact .bar{
@@ -54,12 +62,16 @@ nav.site-navbar{
     border-radius: 10px;
 }
 
+/* About */
+
 a.site-button{
 border-radius: 8px;
 border:1px solid white;
 color: white;
 background-color: #1ABC9C;
 }
+
+/* Contact */
 
 .contact .site-form{
     border: none;
@@ -71,6 +83,9 @@ background-color: #1ABC9C;
     box-shadow: none;
     border-bottom: 1px solid black;
 }
+
+/* Footer */
+
 .footer{
 background-color: #3B546E;
 color:white
@@ -87,6 +102,7 @@ color:white
 .green{
     color: #21B999;
 }
+
 .copyright{
     background-color:#2C3F4F;
 }
